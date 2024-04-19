@@ -1,4 +1,4 @@
-An implementation of G-FOLD in Matlab using CVX.
+An implementation of the G-FOLD algorithm in Matlab using CVX. The plotted results for different examples are in the Figures folder.
 
 ## Dependencies:
 - CVX version 2.2 (a convex programming toolbox for Matlab)
