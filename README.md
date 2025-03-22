@@ -7,6 +7,20 @@ An implementation of the G-FOLD algorithm in Matlab using CVX. The plotted resul
 ## Run:
 - Run init_opt.m
 
+## Results:
+### Case #1
+![Case #1](Figures/case_1/Trajectory_case1.png)
+![Case #1](Figures/case_1/throttlelvl_case1.png)
+![Case #1](Figures/case_1/thrust_point_case1.png)
+### Case #2
+![Case #2](Figures/case_2/Trajectory_case2.png)
+![Case #2](Figures/case_2/throttlelvl_case2.png)
+![Case #2](Figures/case_2/thrust_point_case2.png)
+### Case #3
+![Case #3](Figures/case_3/Trajectory_case3.png)
+![Case #3](Figures/case_3/throttlelvl_case3.png)
+![Case #3](Figures/case_3/thrust_point_case3.png)
+
 ## Reference:
 
 Lossless Convexification of Nonconvex Control Bound and Pointing Constraints of the Soft Landing Optimal Control Problem
